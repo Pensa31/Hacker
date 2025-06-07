@@ -13,7 +13,7 @@
 
 ## 实验场景
 
-![alt text](image.png)
+![alt text](images/image-53.png)
 
 ## 网络拓扑
 
