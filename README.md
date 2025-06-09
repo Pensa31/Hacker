@@ -83,4 +83,8 @@ eth1: 192.168.1.2（网关）
 
 [mitre-attack](https://github.com/Pensa31/Hacker/blob/zouquancai/layer.xlsx)
 
+## 靶标通过
+
+![alt text](images/image-81.png)
+
 ## 端口转发
