@@ -163,7 +163,8 @@
   ![alt text](images/image-13.png)
 
  ## 参考链接：
- [1].[Webmin 远程代码执行Getshell漏洞复现 编号：CVE-2022-0824](https://blog.csdn.net/heartsk/article/details/126621266)
+[1][Webmin 远程代码执行Getshell漏洞复现 编号：CVE-2022-0824](https://blog.csdn.net/heartsk/article/details/126621266)
 
-[2].[webmin下载和安装](https://webmin.com/download/)
-[3].[Vulfocus练习之Webmin远程代码执行(CVE-2022-0824）](https://blog.csdn.net/weixin_45701865/article/details/134966160)
+[2][webmin下载和安装](https://webmin.com/download/)
+
+[3][Vulfocus练习之Webmin远程代码执行(CVE-2022-0824）](https://blog.csdn.net/weixin_45701865/article/details/134966160)
